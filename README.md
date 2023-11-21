@@ -1,5 +1,5 @@
 # ARM
-# ARM Software made in Python Language in 4 different way
+# ARM Software made in Python Language in 4 different ways
 
 # ARM Software Emulation
 
