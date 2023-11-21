@@ -26,8 +26,10 @@ The Python script `arm_emulator.py` takes a hexadecimal ARM instruction as input
 
 ## ARM Instruction Conversion
 
-![ARM Instruction Conversion](path/to/your/diagram.png)
-[Include a diagram that explains the flow of instruction conversion in the emulator.]
+![image](https://github.com/nikitasavaliya87/ARM/assets/144912665/9c850bcc-000d-44a3-b269-91dd2192307e)
+
+![image](https://github.com/nikitasavaliya87/ARM/assets/144912665/0bca2103-b86c-40b2-a794-48e15d43f846)
+
 
 ## Example
 
@@ -36,17 +38,11 @@ For the input instruction `e0802001`, the output will be `MOV R2,R1` as per the 
 ## Known Limitations
 
 - Limited to a subset of ARM instructions
+- Three- Byte instruction is not working
 - May not handle all edge cases of ARM instructions
 
-## Contributions
-
-Contributions and suggestions are welcome! Fork the repository, make changes, and create a pull request. Please adhere to the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact Information
 
-For queries or suggestions, contact [your-email@example.com].
+For queries or suggestions, contact nikita.savaliya16@gmail.com
 
