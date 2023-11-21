@@ -7,7 +7,7 @@ This project emulates ARM software instructions using Python. It converts given 
 
 ## Description
 
-The Python script `arm_emulator.py` takes a hexadecimal ARM instruction as input, decodes it, and converts it into its assembly language representation. It categorizes the instructions into Register Type and Immediate Type, fetching the opcode and corresponding registers involved in the instruction.
+The Python script `ARM_Ass.py` takes a hexadecimal ARM instruction as input, decodes it, and converts it into its assembly language representation. It categorizes the instructions into Register Type and Immediate Type, fetching the opcode and corresponding registers involved in the instruction.
 
 ## Features
 
