@@ -22,7 +22,7 @@ The Python script `ARM_Ass.py` takes a hexadecimal ARM instruction as input, dec
 2. Clone this repository.
 3. Open `ARM_Ass.py`.
 4. Run the script using `python ARM_Ass.py`.
-5`. View the output displaying the assembly mnemonic of the input instruction.
+5. View the output displaying the assembly mnemonic of the input instruction.
 
 ## ARM Instruction Conversion
 
